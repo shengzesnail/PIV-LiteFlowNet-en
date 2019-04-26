@@ -52,7 +52,7 @@ The PIV dataset can be referred to [https://github.com/shengzesnail/PIV_dataset]
 	It is a script for evaluating PIV-LiteFlowNet-en on a single image pair. Several demos are given in the folder `demos/testedData/`. If everything goes fine, you can see the results like these: 
 	**- Vortex pair flow**
 	<figure  class="third">
-	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_images.gif" width="250"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_results.png" width="480"/>
+	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_images.gif" width="250"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_results.png" width="280"/>
 	</figure>
 	
 	**- Backward stepping flow**
