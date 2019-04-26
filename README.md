@@ -71,7 +71,7 @@ The PIV dataset can be referred to [https://github.com/shengzesnail/PIV_dataset]
 	</figure>
 	
 3. Run `demos/test_pivLiteflownet_all.m` in MATLAB. 
-	This is a script for evaluating PIV-LiteFlowNet-en on a list of images. A image sequence of uniform flow is provided in the folder `demos/testedData2/`. The root mean square error (RMSE) and the computation time are evaluated, thus you can assess the accuracy and efficiency of the CNN model. 
+	This is a script for evaluating PIV-LiteFlowNet-en on a list of images. An image sequence of uniform flow is provided in the folder `demos/testedData2/`. The root mean square error (RMSE) and the computation time are evaluated, thus you can assess the accuracy and efficiency of the CNN model. 
 
 <br>
 
