@@ -4,8 +4,8 @@
 
 ## Directory in this repository
 
-**caffe**: folder as the caffe master with the trained models
-**demos**: folder containing MATLAB scripts for testing the trained models
+>**caffe**: folder as the caffe master with the trained models  
+>**demos**: folder containing MATLAB scripts for testing the trained models
 
 
 ## License and citation
@@ -52,17 +52,17 @@ The PIV dataset can be referred to [https://github.com/shengzesnail/PIV_dataset]
 	It is a script for evaluating PIV-LiteFlowNet-en on a single image pair. Several demos are given in the folder `demos/testedData/`. If everything goes fine, you can see the results like these: 
 	**- Vortex pair flow**
 	<figure  class="third">
-	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_images.gif" width="220"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_results.png" width="245"/>
+	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_images.gif" width="250"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/vortexPair_results.png" width="480"/>
 	</figure>
 	
 	**- Backward stepping flow**
 	<figure  class="third">
-	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/backstep_images.gif" width="220"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/backstep_results.png" width="400"/>
+	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/backstep_images.gif" width="250"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/backstep_results.png" width="460"/>
 	</figure>
 	
 	**- [DNS turbulent flow](http://fluid.irisa.fr/data-eng.htm)**
 	<figure  class="third">
-	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/DNS_tur_images.gif" width="220"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/DNS_tur_results.png" width="400"/>
+	<img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/DNS_tur_images.gif" width="250"/>     <img src="https://github.com/shengzesnail/PIV-LiteFlowNet-en/raw/master/demos/testedData/DNS_tur_results.png" width="460"/>
 	</figure>
 	
 3. Run `demos/test_pivLiteflownet_all.m` in MATLAB
