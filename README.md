@@ -53,6 +53,7 @@ The PIV dataset can be referred to [https://github.com/shengzesnail/PIV_dataset]
 
 1. Open the `demos` folder
 2. Run `demos/test_pivLiteflownet.m` in MATLAB
+
 	It is a script for evaluating PIV-LiteFlowNet-en on a single image pair. Several demos are given in the folder `demos/testedData/`. If everything goes fine, you can see the results like these: 
 	
 	**- Vortex pair flow**
@@ -71,6 +72,7 @@ The PIV dataset can be referred to [https://github.com/shengzesnail/PIV_dataset]
 	</figure>
 	
 3. Run `demos/test_pivLiteflownet_all.m` in MATLAB
+
 	This is a script for evaluating PIV-LiteFlowNet-en on a list of images. A image sequence of uniform flow is provided in the folder `demos/testedData2/`. The root mean square error (RMSE) and the computation time are evaluated, thus you can assess the accuracy and efficiency of the CNN model. 
 
 <br>
