@@ -1,0 +1,22 @@
+# THIS IS ONLY AN EXAMPLE. CHANGE THE SETTINGS IT IF NECESSARY.
+
+net: "/PIV-LiteFlowNet-en_train.prototxt"
+test_iter: 180
+test_interval: 5000
+base_lr: 0.00004
+lr_policy: "multistep"
+gamma: 0.5
+stepvalue: 200000
+stepvalue: 400000
+stepvalue: 600000
+stepvalue: 800000
+stepvalue: 1000000
+momentum: 0.9
+weight_decay: 0.0004
+display: 300
+max_iter:  1200000
+snapshot: 100000
+snapshot_prefix: "flow"
+solver_mode: GPU
+solver_type: ADAM
+momentum2: 0.999
