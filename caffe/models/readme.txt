@@ -1,7 +1,7 @@
 PIV-LiteFLowNet: LiteFlowNet trained on the PIV dataset
 
 
-PIV-LiteFLowNet-en: LiteFlowNet trained on the PIV dataset
+PIV-LiteFLowNet-en: LiteFlowNet-en trained on the PIV dataset
 
 
 
