@@ -13,7 +13,7 @@
 
 This repository is provided for research purposes only. All rights reserved. Any commercial use requires our consent. If you use the codes in your research work, please cite the following paper: 
 
-	Cai S, Liang J, Gao Q, Xu C, Wei R. Particle image velocimetry based on a deep learning motion estimator, submitted to IEEE Transactions on Instrumentation and Measurement. (arXiv version to be added) 
+	Cai S, Liang J, Gao Q, Xu C, Wei R. Particle image velocimetry based on a deep learning motion estimator, IEEE Transactions on Instrumentation and Measurement. (accepted) 
 	
 or the [predecessor paper](https://doi.org/10.1007/s00348-019-2717-2)
 
